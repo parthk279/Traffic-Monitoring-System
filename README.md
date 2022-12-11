@@ -8,7 +8,7 @@ Traffic-Monitoring-System
 This is a project designed to extract meaningful data using image processing and use that data to train a HOG/SVM classifier to generate a system to reduce the wait time for cars and pedestrians in high traffic zones. 
 
 ***
-## Traffic Counting ([Link](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking/tree/master/traffic_counting))
+## Traffic Counting ([Link](https://github.com/parthk279/Traffic-Monitoring-System/tree/main/detrac_tools))
 This project is an extension of the object counting app.
 
 <div align='center'>
