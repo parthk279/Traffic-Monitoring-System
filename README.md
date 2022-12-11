@@ -45,7 +45,7 @@ Note that since DETRAC doesn't contain any motorcycles, they are the only vehicl
 
 
 ***
-## Object Counting ([Link](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking/tree/master/object_counting))
+## Object Counting ([Link](https://github.com/parthk279/Traffic-Monitoring-System/tree/main/object_counting))
 This project was originally intended to be an app for counting the current number of people in multiple rooms using my own smartphones, where the server would be remotely hosted. Below shows detection, tracking, and counting of people and cars.
 
 <div align='center'>
